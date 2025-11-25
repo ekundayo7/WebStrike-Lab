@@ -1,7 +1,7 @@
-# WebStrike-Lab
+# Network Traffic Analysis lab 
 
 ## Objective
-The Webstrike Lab is a challenge that simulates a real world incident involving a suspicious web shell. The task involves analyzing network logs and identifying malicious activities from a forensic standpoint.
+The Network Traffic Analysis Lab (Webstrike Lab on Cyberdefenders) is a challenge that simulates a real world incident involving a suspicious web shell. The task involves analyzing network logs and identifying malicious activities from a forensic standpoint.
 
 ### Skills Learned
 - Advanced understanding of Packet Capture (PCAP) Analysis.
